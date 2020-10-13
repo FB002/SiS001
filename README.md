@@ -7,11 +7,7 @@ https://github.com/FB002/SiS001
 
 永久地址： http://sis001.com/
 
-最新地址：
-
-<div><a href="http://38.103.161.133/forum/forumdisplay.php?fid=187" target="_blank">最新地址1</a></div>
-<div><a href="http://104.194.212.2/forum/forumdisplay.php?fid=187" target="_blank">最新地址2</a></div>
-<div><a href="http://38.103.161.170/forum/forumdisplay.php?fid=187" target="_blank">最新地址3</a></div>
+<div><a href="http://38.103.161.133/forum/forumdisplay.php?fid=187" target="_blank">最新地址1</a></div><div><a href="http://104.194.212.2/forum/forumdisplay.php?fid=187" target="_blank">最新地址2</a></div><div><a href="http://38.103.161.170/forum/forumdisplay.php?fid=187" target="_blank">最新地址3</a></div>
 <div><a href="http://104.194.212.5/forum/forumdisplay.php?fid=187" target="_blank">最新地址4</a></div>
 <div><a href="http://38.103.161.6/forum/forumdisplay.php?fid=187" target="_blank">最新地址5</a></div>
 <div><a href="http://104.194.212.14/forum/forumdisplay.php?fid=187" target="_blank">最新地址6</a></div>
